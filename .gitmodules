@@ -1,0 +1,3 @@
+[submodule "gpac"]
+	path = gpac
+	url = https://github.com/Bevara/GPAC.git
